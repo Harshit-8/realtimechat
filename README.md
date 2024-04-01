@@ -42,7 +42,7 @@ Show some ❤️ and 🌟 the repo to support the project
 
 2. Run `npm install` to install dependencies
 
-3. Create a `.env` file and create variables as mentioned in the `.env.example` with the values
+3. Create `.env` file and create variables as mentioned with your values
 
 4. Run `npm start` to start the application
 
@@ -54,7 +54,7 @@ Show some ❤️ and 🌟 the repo to support the project
 
 3. Create a MongoDB account and get the MONOGO_URL for connecting the server and the Database
 
-4. Create a `.env` file and create variables as mentioned in the `.env.example` with the values
+4. Create a `.env` file and create variables as mentioned with the values
 
 5. Run `nodemon server.js` to start the server [Should have installed nodemon globally]
 
